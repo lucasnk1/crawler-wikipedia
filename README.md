@@ -45,12 +45,13 @@ Esse projeto foi feito para a disciplina de Coleta, Preparação e Análise de D
 
 ##  Exemplo de saída
 
-Grafo construído: 44 pessoas, 26 conexões.
-Nome da pessoa de origem: Aaron Swartz
-Nome da pessoa de destino: Jimmy Wales
-
-Grau de separação: 1
-Aaron Swartz -> Jimmy Wales
+GrGrafo construído: 994 pessoas, 2155 conexões.
+✅ Grau de separação entre 'Henrique III de Castela' e 'Henrique V de Inglaterra': 3
+Caminho encontrado:
+   Henrique III de Castela (origem)
+   Filipe II de Espanha
+   Henrique VIII de Inglaterra
+   Henrique V de Inglaterra (destino)
 
 
 ---
