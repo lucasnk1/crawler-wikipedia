@@ -45,7 +45,7 @@ Esse projeto foi feito para a disciplina de Coleta, Preparação e Análise de D
 
 ##  Exemplo de saída
 
-GrGrafo construído: 994 pessoas, 2155 conexões.
+Grafo construído: 994 pessoas, 2155 conexões.
 ✅ Grau de separação entre 'Henrique III de Castela' e 'Henrique V de Inglaterra': 3
 Caminho encontrado:
    Henrique III de Castela (origem)
@@ -81,5 +81,5 @@ Link para o repositório com dados coletados: ( https://github.com/lucasnk1/craw
 
 ##  Conclusão
 O trabalho mostrou como funciona um crawler e como podemos modelar as relações entre páginas da Wikipédia em forma de grafo.  
-A parte dos **6 graus de separação** conecta programação, teoria dos grafos e até sociologia 🤓.  
+A parte dos **6 graus de separação** conecta programação, teoria dos grafos e até sociologia.  
 
