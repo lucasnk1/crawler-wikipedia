@@ -75,7 +75,7 @@ No começo o site da Wikipédia bloqueava algumas requisições porque nosso cra
 ## 📂 Dados coletados
 
 Os arquivos HTML coletados estão disponíveis na pasta `wikipedia_pessoas`.
-Link para os dados: [Repositório com dados coletados] ( https://github.com/lucasnk1/crawler-wikipedia )
+Link para o repositório com dados coletados: ( https://github.com/lucasnk1/crawler-wikipedia/tree/main/wikipedia_pessoas )
 
 ---
 
