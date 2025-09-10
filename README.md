@@ -3,7 +3,7 @@
 Integrantes:  
 - **Augusto Kulzer**  
 - **Lucas Leuck**  
-- **Pedro Paccolo**
+- **Pedro Peccolo**
 
 ---
 
